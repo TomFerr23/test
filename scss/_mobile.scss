@@ -1,0 +1,190 @@
+//MOBILE VERSION
+@media (max-width: 700px) {
+
+    .testy-desktop {
+        display: none !important;
+    }
+
+    .desktop-name {
+        display: none;
+    }
+
+   
+    .statement-desktop {
+        .pic-desktop {
+            display: none !important;
+        }
+    }
+    .desktop-about {
+        display: none;
+    }
+
+    .statement-desktop {
+        display: none !important;
+    }
+
+    .statement-desktop2 {
+        display: none !important;
+    }
+
+
+    .social-icons {
+        display: none !important;
+    }
+
+    .space {
+        display: none;
+    }
+
+    .nav-desktop {
+        display: none !important ;
+    }
+
+    .h2:after {
+        content: "";
+        display: block;
+        width: 120px !important;
+        height: 1px;
+        background: $line-color;
+        position: absolute;
+        left: 100%;
+        top: 50%;
+        margin-left: 10px;
+    
+    }
+
+    .h2-modified:after {
+        content: "";
+        display: block;
+        width: 30px !important;
+        height: 1px;
+        background: $line-color;
+        position: absolute;
+        left: 100%;
+        top: 50%;
+        margin-left: 10px;
+    
+    }
+
+    .h2-modified-2:after {
+        content: "";
+        display: block;
+        width: 25px !important;
+        height: 1px;
+        background: $line-color;
+        position: absolute;
+        left: 100%;
+        top: 50%;
+        margin-left: 2px !important;
+    
+    }
+
+
+
+    .h2-fixed:after {
+        content: "";
+        display: block;
+        width: 90px !important;
+        height: 1px;
+        background: $line-color;
+        position: absolute;
+        left: 55% !important;
+        top: 50%;
+        margin-left: 10px;
+    
+    }
+
+    
+}
+//
+
+//DESKTOP VERSION
+@media (min-width: 701px) {
+
+    .testy-mobile {
+        display: none;
+    }
+
+    .mobile-name {
+        display: none;
+    }
+
+    .statement-mobile {
+        display: none;
+    }
+
+
+
+    .mobile-about {
+        display: none;
+    }
+
+    .pic-mobile {
+        display: none !important;
+    }
+
+    .nav-mobile {
+        display: none !important;
+    }
+
+    .socials-footer-mobile {
+        display: none;
+    }
+}
+//
+// DESKTOP VERSION ABOUT ME WITH LINE
+
+@media (max-width: 2003px) {
+
+    .special-desktop {
+        left: 23% !important;
+    }
+
+}
+
+
+@media (max-width: 1703px) {
+
+    .special-desktop {
+        left: 18% !important;
+    }
+
+}
+
+@media (max-width: 1565px) {
+
+    .special-desktop {
+        left: 18% !important;
+    }
+
+}
+
+@media (max-width: 1400px) {
+
+    .special-desktop {
+        left: 14% !important;
+    }
+
+}
+
+@media (max-width: 1245px) {
+
+    .special-desktop {
+        left: 13% !important;
+    }
+
+}
+
+@media (max-width: 1013px) {
+
+    .special-desktop {
+        left: 13% !important;
+    }
+
+}
+//
+
+
+
+
+
